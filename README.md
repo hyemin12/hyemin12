@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HYEMIN&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=40)
+
+<br>
+
+<h1>HyeMin's github</h1>
 
 <br>
 <br>
