@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=40)
 
-<h1 style="text-decoration:none">HyeMin's github</h1>
+<span style="font-size:40px">HyeMin's github</span>
 
 <br>
 <br>
