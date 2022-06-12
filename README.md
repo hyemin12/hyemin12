@@ -2,8 +2,7 @@
 
 <br>
 <br>
-<div style="display:flex; justify-content:center">
-  <div>
+
   🛠 Tech Stack 🛠
   <div style="display:flex; gap:10px">
   <img src="https://img.shields.io/badge/Html5-orange?style=flat-square&logo=html5&logoColor=white"/>
@@ -22,5 +21,4 @@
   🔊 Most Used Languages 🔊
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemin12)](https://github.com/hyemin12/github-readme-stats)
-  </div>
-</div>
+
