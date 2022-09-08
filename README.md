@@ -77,11 +77,6 @@
   <a href="https://h-m-shop.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/react-shop-practice-app/" target="_blank">🔧코드</a>
 </div>
-<div>
-  <span></span>
-  <a href="" target="_blank" style="margin: 0 10px;">💻사이트</a>
-  <a href="" target="_blank">🔧코드</a>
-</div>
 
 <br>
 <hr>
