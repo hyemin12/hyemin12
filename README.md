@@ -154,6 +154,12 @@
   <a href="https://github.com/hyemin12/javascript-animation" target="_blank">🔧코드</a>
 </div>
 <div>
+  <span>- CSS flexbox 공부</span>
+  <a href="https://hyemin12.github.io/css-flexbox/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://github.com/hyemin12/css-flexbox/" target="_blank">🔧코드</a>
+  
+</div>
+<div>
   <span>- CSS Grid 공부</span>
   <a href="https://hyemin12.github.io/css-grid/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/css-grid/" target="_blank">🔧코드</a>
