@@ -176,6 +176,7 @@
   <a href="https://github.com/hyemin12/svelte-todo-app" target="_blank">🔧코드</a>
 </div>
 <br>
+<hr>
 <br>
 <div>
   <span> 자주 쓰는 내용 (git, markdown, 즐겨찾기) </span>
