@@ -177,7 +177,6 @@
 </div>
 <br>
 <hr>
-<br>
 <div>
   <span> 자주 쓰는 내용 (git, markdown, 즐겨찾기) </span>
   <a href="https://github.com/hyemin12/hye--min/" target="_blank">🔧코드</a>
