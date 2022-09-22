@@ -60,7 +60,7 @@
 <div>
   <span>- 2022 포트폴리오</span>
   <a href="https://h-m-portfolio.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-  <a href="https://github.com/hyemin12/portfolio_renewal" target="_blank">🔧코드</a>
+  <a href="https://github.com/hyemin12/2022_portfolio" target="_blank">🔧코드</a>
 </div>
 <div>
   <span>- 투두리스트</span>
