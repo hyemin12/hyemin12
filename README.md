@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=React&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Github-181717C?style=flat-square&logo=React&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=photoshop&logoColor=white"/>
