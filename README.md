@@ -145,6 +145,30 @@
   <a href="https://hyemin12.github.io/responsive-webstie-forty/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/responsive-webstie-forty/" target="_blank">🔧코드</a>
 </div>
+
+<div>
+  <span>- 바닐라자바스크립트챌린지</span>
+  <a href="https://hyemin12.github.io/vanillaJS-challenge/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://github.com/hyemin12/vanillaJS-challenge/" target="_blank">🔧코드</a>
+</div>
+<div>
+  <span>- 고혜민 이력서 </span>
+  <a href="https://hyemin12.github.io/hm_resume/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+</div>
+
+<div>
+  <span>- [svelte] 투두리스트 </span>
+  <a href="https://mystifying-mirzakhani-7de8d4.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://github.com/hyemin12/svelte-todo-app" target="_blank">🔧코드</a>
+</div>
+
+<br>
+<hr>
+<h4>공부</h4>
+<div>
+  <span>- 코딩테스트공부&자바스크립트공부</span>
+  <a href="https://github.com/hyemin12/codingtest_">💻사이트</a>
+</div>
 <div>
   <span>- 자바스크립트 애니메이션공부 (Typeit, Scrollout)</span>
   <a href="https://github.com/hyemin12/javascript-animation" target="_blank">🔧코드</a>
@@ -160,27 +184,6 @@
   <a href="https://hyemin12.github.io/css-grid/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/css-grid/" target="_blank">🔧코드</a>
 </div>
-<div>
-  <span>- 바닐라자바스크립트챌린지</span>
-  <a href="https://hyemin12.github.io/vanillaJS-challenge/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-  <a href="https://github.com/hyemin12/vanillaJS-challenge/" target="_blank">🔧코드</a>
-</div>
-<div>
-  <span>- 고혜민 이력서 </span>
-  <a href="https://hyemin12.github.io/hm_resume/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-</div>
-<div>
-  <span>- 코딩테스트공부&자바스크립트공부</span>
-  <a href="https://github.com/hyemin12/codingtest_">💻사이트</a>
-</div>
-<div>
-  <span>- [svelte] 투두리스트 </span>
-  <a href="https://mystifying-mirzakhani-7de8d4.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-  <a href="https://github.com/hyemin12/svelte-todo-app" target="_blank">🔧코드</a>
-</div>
-
-<br>
-<hr>
 <div>
   <span> 자주 쓰는 내용 (git, markdown, 즐겨찾기) </span>
   <a href="https://github.com/hyemin12/hye--min/" target="_blank">🔧코드</a>
