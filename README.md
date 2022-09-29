@@ -167,7 +167,7 @@
 <h3>@공부</h4>
 <div>
   <span>- 코딩테스트공부&자바스크립트공부</span>
-  <a href="https://github.com/hyemin12/codingtest_">💻사이트</a>
+  <a href="https://hyemin12.github.io/codingtest_">💻사이트</a>
 </div>
 <div>
   <span>- 자바스크립트 애니메이션공부 (Typeit, Scrollout)</span>
