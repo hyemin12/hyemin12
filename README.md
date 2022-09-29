@@ -118,11 +118,6 @@
   <a href="https://github.com/hyemin12/web-design-portfolio/01Stranger2/" target="_blank">🔧코드</a>
 </div>
 <div>
-  <span>- 멜론</span>
-  <a href="https://hyemin12.github.io/web-design-portfolio/04Melon/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-  <a href="https://github.com/hyemin12/web-design-portfolio/04Melon/" target="_blank">🔧코드</a>
-</div>
-<div>
   <span>- 오마이걸 미니4집 프로모션</span>
   <a href="https://hyemin12.github.io/web-design-portfolio/03OHMYGIRL/index2.html" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/web-design-portfolio/03OHMYGIRL" target="_blank">🔧코드</a>
