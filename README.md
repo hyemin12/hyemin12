@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=photoshop&logoColor=white"/>
   </p>
   
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+/* <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemin12&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/hyemin12/github-readme-stats)
-</div>
+</div> */
 
 <h3 align="center">🌈 Used Languages 🌈</h3>
 <div align="center">
@@ -32,6 +32,7 @@
 
 <br>
 <hr>
+
 
 
 <h3>@React</h3>
@@ -172,6 +173,10 @@
 <div>
   <span>- 고혜민 이력서 </span>
   <a href="https://hyemin12.github.io/hm_resume/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+</div>
+<div>
+  <span>- 코딩테스트공부&자바스크립트공부</span>
+  <a href="https://github.com/hyemin12/codingtest_">💻사이트</a>
 </div>
 <div>
   <span>- [svelte] 투두리스트 </span>
