@@ -170,6 +170,10 @@
   <a href="https://hyemin12.github.io/codingtest_">💻사이트</a>
 </div>
 <div>
+  <span>- Express + mysql 공부 with todolist</span>
+  <a href="https://github.com/hyemin12/typescript-todo-express" target="_blank">🔧코드</a>
+</div>
+<div>
   <span>- 자바스크립트 애니메이션공부 (Typeit, Scrollout)</span>
   <a href="https://github.com/hyemin12/javascript-animation" target="_blank">🔧코드</a>
 </div>
