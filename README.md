@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=photoshop&logoColor=white"/>
   </p>
+  
+  <h3 align="center">📚 Being Studied 📚</h3>
+  <img src="https://img.shields.io/badge/TypeScript-orange?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-orange?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-orange?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 
 <h3 align="center">🌈 Used Languages 🌈</h3>
