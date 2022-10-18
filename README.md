@@ -18,9 +18,11 @@
   </p>
   
   <h3 align="center">📚 Being Studied 📚</h3>
-  <img src="https://img.shields.io/badge/TypeScript-orange?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-orange?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-orange?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248e?style=flat-square&logo=MongoDB&logoColor=white"/>
+  </p>
 
 
 <h3 align="center">🌈 Used Languages 🌈</h3>
