@@ -176,6 +176,8 @@
   <span>- 코딩테스트공부&자바스크립트공부</span>
   <a href="https://hyemin12.github.io/codingtest_">💻사이트</a>
 </div>
+<div><span>- 성능 최적화를 위한 react hook </span>
+  <a href="https://github.com/hyemin12/react-hook-study" target="_blank">🔧코드</a></div>
 <div>
   <span>- nodejs + mysql 공부 with todolist</span>
   <a href="https://github.com/hyemin12/typescript-todo-nodejs" target="_blank">🔧코드</a>
