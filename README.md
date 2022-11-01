@@ -158,10 +158,6 @@
   <a href="https://hyemin12.github.io/vanillaJS-challenge/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/vanillaJS-challenge/" target="_blank">🔧코드</a>
 </div>
-<div>
-  <span>- 고혜민 이력서 </span>
-  <a href="https://hyemin12.github.io/hm_resume/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-</div>
 
 <div>
   <span>- [svelte] 투두리스트 </span>
