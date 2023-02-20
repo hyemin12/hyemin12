@@ -40,6 +40,11 @@
 <h3>@React</h3>
 <br>
 <div>
+  <span>- 유투브 클론</span>
+  <a href="https://react-movie-app-1f5ff8.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://github.com/hyemin12/react-youtube-clone" target="_blank">🔧코드</a>
+</div>
+<div>
   <span>- 영화검색사이트</span>
   <a href="https://react-movie-app-1f5ff8.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/react-movie-app" target="_blank">🔧코드</a>
@@ -109,6 +114,11 @@
   <span>- Wordle 게임</span>
   <a href="https://hyemin12.github.io/vanillaJS-wordle-app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/vanillaJS-wordle-app" target="_blank">🔧코드</a>
+</div>
+<div>
+  <span>- 영어문장 공부 - 테스트용</span>
+  <a href="https://hyemin12.github.io/1000-sentence-challenge" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://github.com/hyemin12/1000-sentence-challenge" target="_blank">🔧코드</a>
 </div>
 <br>
 <hr>
