@@ -41,7 +41,7 @@
 <br>
 <div>
   <span>- 유투브 클론</span>
-  <a href="https://react-movie-app-1f5ff8.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://hm-youtube-clone-app.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/react-youtube-clone" target="_blank">🔧코드</a>
 </div>
 <div>
