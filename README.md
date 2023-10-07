@@ -45,13 +45,22 @@
   <a href="https://github.com/hyemin12/react-youtube-clone" target="_blank">🔧코드</a>
 </div>
 <div>
-  <span>- 영화검색사이트</span>
+  <span>- 영화검색사이트1</span>
+  <a href="https://react-movie-app-1f5ff8.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://github.com/hyemin12/react-movie-app-version1" target="_blank">🔧코드</a>
+</div>
+<div>
+  <span>- 영화검색사이트2</span>
   <a href="https://react-movie-app-1f5ff8.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/react-movie-app" target="_blank">🔧코드</a>
 </div>
 <div>
   <span>- 대시보드</span>
   <a href="https://lucid-yonath-d614bb.netlify.app/" target="_blank" style="margin: 0 10px;">💻사이트</a>
+  <a href="https://github.com/hyemin12/react-dashboard-ver2" target="_blank">🔧코드</a>
+</div>
+<div>
+  <span>- 대시보드2</span>
   <a href="https://github.com/hyemin12/react-dashboard-app2" target="_blank">🔧코드</a>
 </div>
 <div>
