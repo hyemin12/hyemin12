@@ -197,29 +197,12 @@
 <br>
 <hr>
 <h3>@공부</h4>
+  [💻공부 블로그](https://hyemin12.github.io/)
+  [성능 최적화를 위한 react hook](https://github.com/hyemin12/react-hook-study)
+  [nodejs + mysql 공부 with todolist](https://github.com/hyemin12/typescript-todo-nodejs)
+  [nodejs + mongoDB 공부 with youtube](https://github.com/hyemin12/nodejs_mongodb)
+  [CSS flexbox](https://github.com/hyemin12/css-flexbox/)
+  [CSS Grid](https://github.com/hyemin12/css-grid/)
 
-  [💻사이트](https://hyemin12.github.io/)
-
-<div><span>- 성능 최적화를 위한 react hook </span>
-  <a href="https://github.com/hyemin12/react-hook-study" target="_blank">🔧코드</a></div>
-<div>
-  <span>- nodejs + mysql 공부 with todolist</span>
-  <a href="https://github.com/hyemin12/typescript-todo-nodejs" target="_blank">🔧코드</a>
-</div>
-<div>
-  <span>- nodejs + mongoDB 공부 with youtube</span>
-  <a href="https://github.com/hyemin12/nodejs_mongodb" target="_blank">🔧코드</a>
-</div>
-<div>
-  <span>- CSS flexbox 공부</span>
-  <a href="https://hyemin12.github.io/css-flexbox/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-  <a href="https://github.com/hyemin12/css-flexbox/" target="_blank">🔧코드</a>
-  
-</div>
-<div>
-  <span>- CSS Grid 공부</span>
-  <a href="https://hyemin12.github.io/css-grid/" target="_blank" style="margin: 0 10px;">💻사이트</a>
-  <a href="https://github.com/hyemin12/css-grid/" target="_blank">🔧코드</a>
-</div>
 
 
