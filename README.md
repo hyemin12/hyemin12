@@ -198,8 +198,8 @@
 <hr>
 <h3>@공부</h4>
 <div>
-  <span>- 코딩테스트공부&자바스크립트공부</span>
-  <a href="https://hyemin12.github.io/codingtest_">💻사이트</a>
+  <span>- 블로그</span>
+  [💻사이트](https://hyemin12.github.io/)
 </div>
 <div><span>- 성능 최적화를 위한 react hook </span>
   <a href="https://github.com/hyemin12/react-hook-study" target="_blank">🔧코드</a></div>
@@ -212,10 +212,6 @@
   <a href="https://github.com/hyemin12/nodejs_mongodb" target="_blank">🔧코드</a>
 </div>
 <div>
-  <span>- 자바스크립트 애니메이션공부 (Typeit, Scrollout)</span>
-  <a href="https://github.com/hyemin12/javascript-animation" target="_blank">🔧코드</a>
-</div>
-<div>
   <span>- CSS flexbox 공부</span>
   <a href="https://hyemin12.github.io/css-flexbox/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/css-flexbox/" target="_blank">🔧코드</a>
@@ -226,7 +222,5 @@
   <a href="https://hyemin12.github.io/css-grid/" target="_blank" style="margin: 0 10px;">💻사이트</a>
   <a href="https://github.com/hyemin12/css-grid/" target="_blank">🔧코드</a>
 </div>
-<div>
-  <span> 자주 쓰는 내용 (git, markdown, 즐겨찾기) </span>
-  <a href="https://github.com/hyemin12/hye--min/" target="_blank">🔧코드</a>
-</div>
+
+
