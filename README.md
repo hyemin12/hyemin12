@@ -197,7 +197,8 @@
 <br>
 <hr>
 <h3>@공부</h4>
-  [💻공부 블로그](https://hyemin12.github.io/)   
+
+  [💻공부 블로그](https://hyemin12.github.io)   
   
   [성능 최적화를 위한 react hook](https://github.com/hyemin12/react-hook-study)   
   
@@ -205,9 +206,9 @@
   
   [nodejs + mongoDB 공부 with youtube](https://github.com/hyemin12/nodejs_mongodb)   
   
-  [CSS flexbox](https://github.com/hyemin12/css-flexbox/)   
+  [CSS flexbox](https://github.com/hyemin12/css-flexbox)   
   
-  [CSS Grid](https://github.com/hyemin12/css-grid/)   
+  [CSS Grid](https://github.com/hyemin12/css-grid)   
 
 
 
