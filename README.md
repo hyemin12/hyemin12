@@ -197,10 +197,9 @@
 <br>
 <hr>
 <h3>@공부</h4>
-<div>
-  <span>- 블로그</span>
+
   [💻사이트](https://hyemin12.github.io/)
-</div>
+
 <div><span>- 성능 최적화를 위한 react hook </span>
   <a href="https://github.com/hyemin12/react-hook-study" target="_blank">🔧코드</a></div>
 <div>
