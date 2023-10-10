@@ -48,10 +48,10 @@
 
 - Dashboard & portfolio - ver1
   [[💻사이트]](https://lucid-yonath-d614bb.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/react-dashboard)
+  [[🔧코드]](https://github.com/hyemin12/react-dashboard-app2)
 
 - Dashboard & portfolio - ver2
-  [[🔧코드]](https://github.com/hyemin12/react-dashboard-app2)
+  [[🔧코드]](https://github.com/hyemin12/react-dashboard)
 
 - clone bubble
   [[💻사이트]](https://wizardly-hermann-7fecb3.netlify.app/)
