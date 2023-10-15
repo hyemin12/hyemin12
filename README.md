@@ -132,11 +132,11 @@
 
 - 비밀의 숲2 프로모션
   [[💻사이트]](https://hyemin12.github.io/web-design-portfolio/01Stranger2/)
-  [[🔧코드]](https://github.com/hyemin12/web-design-portfolio/01Stranger2/)
+  [[🔧코드]](https://github.com/hyemin12/web-design-portfolio/tree/master/01Stranger2)
 
 - 오마이걸 미니4집 프로모션
   [[💻사이트]](https://hyemin12.github.io/web-design-portfolio/03OHMYGIRL)
-  [[🔧코드]](https://github.com/hyemin12/web-design-portfolio/03OHMYGIRL)
+  [[🔧코드]](https://github.com/hyemin12/web-design-portfolio/tree/master/03OHMYGIRL)
 
 ---
 
