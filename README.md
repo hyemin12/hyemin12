@@ -34,6 +34,13 @@
 
 ### @React
 
+- 리액트 포켓몬 앱 (vite)
+  [[💻사이트]]()
+  [[🔧코드]](https://github.com/hyemin12/react-pokemon-app)
+  
+- Dashboard & portfolio - ver2
+  [[🔧코드]](https://github.com/hyemin12/react-dashboard)
+  
 - clone youtube
   [[💻사이트]](https://hm-youtube-clone-app.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/react-youtube-clone)
@@ -46,23 +53,18 @@
   [[💻사이트]](https://react-movie-app-1f5ff8.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/react-movie-app)
 
-- Dashboard & portfolio - ver1
-  [[💻사이트]](https://lucid-yonath-d614bb.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/react-dashboard-app2)
-
-- Dashboard & portfolio - ver2
-  [[🔧코드]](https://github.com/hyemin12/react-dashboard)
-
 - clone bubble
   [[💻사이트]](https://wizardly-hermann-7fecb3.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/gomin-talk-app)
 
+- 예산 계산기 앱 (패스트캠퍼스 강의)
+  [[💻사이트]](https://hyemin12.github.io/react-budget-calcultor/)
+  [[🔧코드]](https://github.com/hyemin12/react-budget-calcultor)
+
 - clone twitter (노마드코더 강의)
   [[🔧코드]](https://github.com/hyemin12/react-firebase-twitterp)
   
-- 예산 계산기 앱 (패스트캠퍼스 강의)
-- [[💻사이트]](https://hyemin12.github.io/react-budget-calcultor/)
-  [[🔧코드]](https://github.com/hyemin12/react-budget-calcultor)
+
 
 ---
 
@@ -91,10 +93,6 @@
 - 그림판 앱(노마드코더 클론코딩)
   [[💻사이트]](https://hyemin12.github.io/vanillaJS-paint-app/)
   [[🔧코드]](https://github.com/hyemin12/vanillaJS-paint-app)
-
-- Wordle 게임
-  [[💻사이트]](https://hyemin12.github.io/vanillaJS-wordle-app/)
-  [[🔧코드]](https://github.com/hyemin12/vanillaJS-wordle-app)
 
 
 ---
