@@ -41,10 +41,6 @@
 - Dashboard & portfolio - ver2
   [[🔧코드]](https://github.com/hyemin12/react-dashboard)
   
-- clone youtube
-  [[💻사이트]](https://hm-youtube-clone-app.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/react-youtube-clone)
-
 - 영화 검색 사이트 - ver1
   [[💻사이트]](https://hm-react-movie-app-version.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/react-movie-app-version1)
@@ -150,6 +146,11 @@
   [사전과제](https://github.com/hyemin12/wanted-pre-onboarding-10-FE-quest)
   [1주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q1)
   [2주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q2)
+  [3주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q3)
+  [4주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q4)
+
+- 프리온보딩 - 클린코드
+  [사전과제](https://hyemin12.github.io/posts/%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C1/)
 
 - [성능 최적화를 위한 react hook](https://github.com/hyemin12/react-hook-study)
 
@@ -161,16 +162,4 @@
 
 - [CSS Grid](https://github.com/hyemin12/css-grid)
 
-- [영어문장 공부 - 테스트용](https://hyemin12.github.io/1000-sentence-challenge)
-
 ---
-
-### @기타
-
-- 바닐라 자바스크립트 챌린지 (노마드코더)
-  [[💻사이트]](https://hyemin12.github.io/vanillaJS-challenge/)
-  [[🔧코드]](https://github.com/hyemin12/vanillaJS-challenge/)
-
-- [svelte]투두리스트 (패스트캠퍼스)
-  [[💻사이트]](https://mystifying-mirzakhani-7de8d4.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/svelte-todo-app)
