@@ -35,7 +35,7 @@
 ### @React
 
 - 리액트 포켓몬 앱 (vite)
-  [[💻사이트]]()
+  [[💻사이트]](https://my-pokemon-app-d036d.firebaseapp.com/)
   [[🔧코드]](https://github.com/hyemin12/react-pokemon-app)
   
 - Dashboard & portfolio - ver2
