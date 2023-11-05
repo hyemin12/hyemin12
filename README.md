@@ -19,7 +19,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=Adobe&logoColor=white)
 
 ### 📚 Being Studied 📚</h3>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=whit)
 
