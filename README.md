@@ -7,6 +7,7 @@
 ![html](https://img.shields.io/badge/Html5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-FFCA28?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=Github&logoColor=white)
@@ -18,10 +19,8 @@
 ![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=Adobe&logoColor=white)
 
 ### 📚 Being Studied 📚</h3>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248e?style=flat-square&logo=MongoDB&logoColor=whit)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=whit)
 
 ### 🌈 Used Languages 🌈
