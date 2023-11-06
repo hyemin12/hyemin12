@@ -31,34 +31,6 @@
 
 ---
 
-### @React
-  
-- Dashboard & portfolio - ver2
-  [[🔧코드]](https://github.com/hyemin12/react-dashboard)
-  
-- 영화 검색 사이트 - ver1
-  [[💻사이트]](https://hm-react-movie-app-version.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/react-movie-app-version1)
-
-- 영화 검색 사이트 - ver2
-  [[💻사이트]](https://react-movie-app-1f5ff8.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/react-movie-app)
-
-- clone bubble
-  [[💻사이트]](https://wizardly-hermann-7fecb3.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/gomin-talk-app)
-
-- 예산 계산기 앱 (패스트캠퍼스 강의)
-  [[💻사이트]](https://hyemin12.github.io/react-budget-calcultor/)
-  [[🔧코드]](https://github.com/hyemin12/react-budget-calcultor)
-
-- clone twitter (노마드코더 강의)
-  [[🔧코드]](https://github.com/hyemin12/react-firebase-twitterp)
-  
-
-
----
-
 ### @React + typescript
 
 - 포켓몬 도감 (vite)
@@ -83,6 +55,33 @@
 - 쇼핑몰
   [[💻사이트]](https://h-m-shop.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/react-shop-practice-app/)
+
+---
+
+### @React
+  
+- Dashboard & portfolio - ver2
+  [[🔧코드]](https://github.com/hyemin12/react-dashboard)
+  
+- 영화 검색 사이트 - ver1
+  [[💻사이트]](https://hm-react-movie-app-version.netlify.app/)
+  [[🔧코드]](https://github.com/hyemin12/react-movie-app-version1)
+
+- 영화 검색 사이트 - ver2
+  [[💻사이트]](https://react-movie-app-1f5ff8.netlify.app/)
+  [[🔧코드]](https://github.com/hyemin12/react-movie-app)
+
+- clone bubble
+  [[💻사이트]](https://wizardly-hermann-7fecb3.netlify.app/)
+  [[🔧코드]](https://github.com/hyemin12/gomin-talk-app)
+
+- 예산 계산기 앱 (패스트캠퍼스 강의)
+  [[💻사이트]](https://hyemin12.github.io/react-budget-calcultor/)
+  [[🔧코드]](https://github.com/hyemin12/react-budget-calcultor)
+
+- clone twitter (노마드코더 강의)
+  [[🔧코드]](https://github.com/hyemin12/react-firebase-twitterp)
+
 
 ---
 
