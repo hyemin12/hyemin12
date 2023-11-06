@@ -32,10 +32,6 @@
 ---
 
 ### @React
-
-- 리액트 포켓몬 앱 (vite)
-  [[💻사이트]](https://my-pokemon-app-d036d.firebaseapp.com/)
-  [[🔧코드]](https://github.com/hyemin12/react-pokemon-app)
   
 - Dashboard & portfolio - ver2
   [[🔧코드]](https://github.com/hyemin12/react-dashboard)
@@ -64,6 +60,18 @@
 ---
 
 ### @React + typescript
+
+- 포켓몬 도감 (vite)
+  [[💻사이트]](https://my-pokemon-app-d036d.firebaseapp.com/)
+  [[🔧코드]](https://github.com/hyemin12/react-pokemon-app)
+
+- 쇼핑몰 (vite)
+  [[💻사이트]](https://react-shop-app-4692d.firebaseapp.com/)
+  [[🔧코드]](https://github.com/hyemin12/react-vite-shop-app)
+  
+- 구글 keep -note (vite)
+  [[💻사이트]]()
+  [[🔧코드]](https://github.com/hyemin12/react-note-app)
 
 - 2022 포트폴리오
   [[🔧코드]](https://github.com/hyemin12/2022_portfolio)
