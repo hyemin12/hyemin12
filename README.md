@@ -66,7 +66,6 @@
 ### @React + typescript
 
 - 2022 포트폴리오
-  [[💻사이트]](https://h-m-portfolio.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/2022_portfolio)
 
 - Todo list
