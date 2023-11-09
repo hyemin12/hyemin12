@@ -42,7 +42,7 @@
   [[🔧코드]](https://github.com/hyemin12/react-vite-shop-app)
   
 - 구글 keep -note (vite)
-  [[💻사이트]]()
+  [[💻사이트]](https://hyemin12.github.io/react-note-app/)
   [[🔧코드]](https://github.com/hyemin12/react-note-app)
 
 - 2022 포트폴리오
