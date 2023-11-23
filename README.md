@@ -63,16 +63,12 @@
 - Dashboard & portfolio - ver2
   [[🔧코드]](https://github.com/hyemin12/react-dashboard)
   
-- 영화 검색 사이트 - ver1
-  [[💻사이트]](https://hm-react-movie-app-version.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/react-movie-app-version1)
 
 - 영화 검색 사이트 - ver2
-  [[💻사이트]](https://react-movie-app-1f5ff8.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/react-movie-app)
 
 - clone bubble
-  [[💻사이트]](https://wizardly-hermann-7fecb3.netlify.app/)
   [[🔧코드]](https://github.com/hyemin12/gomin-talk-app)
 
 - 예산 계산기 앱 (패스트캠퍼스 강의)
@@ -128,19 +124,6 @@
 - [리액트]반응형 웹 - future imperfect
   [[💻사이트]](https://hyemin12.github.io/responsive-site-future_imperfect/)
   [[🔧코드]](https://github.com/hyemin12/responsive-site-future_imperfect)
-
----
-
-### @design + jQuery
-
-- 비밀의 숲2 프로모션
-  [[💻사이트]](https://hyemin12.github.io/web-design-portfolio/01Stranger2/)
-  [[🔧코드]](https://github.com/hyemin12/web-design-portfolio/tree/master/01Stranger2)
-
-- 오마이걸 미니4집 프로모션
-  [[💻사이트]](https://hyemin12.github.io/web-design-portfolio/03OHMYGIRL)
-  [[🔧코드]](https://github.com/hyemin12/web-design-portfolio/tree/master/03OHMYGIRL)
-
 ---
 
 ### @공부
