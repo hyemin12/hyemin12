@@ -62,8 +62,6 @@
   
 - Dashboard & portfolio - ver2
   [[🔧코드]](https://github.com/hyemin12/react-dashboard)
-  
-  [[🔧코드]](https://github.com/hyemin12/react-movie-app-version1)
 
 - 영화 검색 사이트 - ver2
   [[🔧코드]](https://github.com/hyemin12/react-movie-app)
