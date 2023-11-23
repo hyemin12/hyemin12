@@ -1,8 +1,9 @@
 # Hyemin's github
 
-<div align="center">
-
-### 📚 Tech Stack 📚</h3>
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /> Tech Stack
+</summary>
 
 ![html](https://img.shields.io/badge/Html5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
@@ -18,127 +19,141 @@
 ![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=Adobe&logoColor=white)
 
-### 📚 Being Studied 📚</h3>
+</details>
+
+<br/>
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /> Being Studied
+</summary>
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=whit)
 
-### 🌈 Used Languages 🌈
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemin12&layout=compact)](https://github.com/hyemin12/github-readme-stats)
-
-</div>
+</details>
 
 ---
 
-### @React + typescript
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" /> React + typescript
+</summary>
 
-- 포켓몬 도감 (vite)
-  [[💻사이트]](https://my-pokemon-app-d036d.firebaseapp.com/)
-  [[🔧코드]](https://github.com/hyemin12/react-pokemon-app)
+- [포켓몬 도감 (vite)](https://github.com/hyemin12/react-pokemon-app)
 
-- 쇼핑몰 (vite)
-  [[💻사이트]](https://react-shop-app-4692d.firebaseapp.com/)
-  [[🔧코드]](https://github.com/hyemin12/react-vite-shop-app)
-  
-- 구글 keep -note (vite)
-  [[💻사이트]](https://hyemin12.github.io/react-note-app/)
-  [[🔧코드]](https://github.com/hyemin12/react-note-app)
+  - [배포 사이트](https://my-pokemon-app-d036d.firebaseapp.com/)
 
-- 2022 포트폴리오
-  [[🔧코드]](https://github.com/hyemin12/2022_portfolio)
+- [쇼핑몰 (vite)](https://github.com/hyemin12/react-vite-shop-app)
+  - [배포 사이트](https://react-shop-app-4692d.firebaseapp.com/)
+- [구글 keep -note (vite)](https://github.com/hyemin12/react-note-app)
 
-- Todo list
-  [[💻사이트]](https://hm-tsc-todo-app.netlify.app)
-  [[🔧코드]](https://github.com/hyemin12/typescript-todo-app)
+  - [배포 사이트](https://hyemin12.github.io/react-note-app/)
 
-- 쇼핑몰
-  [[💻사이트]](https://h-m-shop.netlify.app/)
-  [[🔧코드]](https://github.com/hyemin12/react-shop-practice-app/)
+- [2022 포트폴리오](https://github.com/hyemin12/2022_portfolio)
 
----
+- [Todo list](https://github.com/hyemin12/typescript-todo-app)
 
-### @React
-  
-- Dashboard & portfolio - ver2
-  [[🔧코드]](https://github.com/hyemin12/react-dashboard)
+  - [배포 사이트](https://hm-tsc-todo-app.netlify.app)
 
-- 영화 검색 사이트 - ver2
-  [[🔧코드]](https://github.com/hyemin12/react-movie-app)
+- [쇼핑몰](https://github.com/hyemin12/react-shop-practice-app/)
+  - [배포 사이트](https://h-m-shop.netlify.app/)
 
-- clone bubble
-  [[🔧코드]](https://github.com/hyemin12/gomin-talk-app)
+</details>
 
-- 예산 계산기 앱 (패스트캠퍼스 강의)
-  [[💻사이트]](https://hyemin12.github.io/react-budget-calcultor/)
-  [[🔧코드]](https://github.com/hyemin12/react-budget-calcultor)
+<br/>
 
-- clone twitter (노마드코더 강의)
-  [[🔧코드]](https://github.com/hyemin12/react-firebase-twitterp)
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> React
+</summary>
 
+- [Dashboard & portfolio - ver2](https://github.com/hyemin12/react-dashboard)
 
----
+- [영화 검색 사이트 - ver2](https://github.com/hyemin12/react-movie-app)
 
-### @html + javascript
+- [clone bubble](https://github.com/hyemin12/gomin-talk-app)
 
-- 크롬 앱(노마드코더 클론코딩)
-  [[💻사이트]](https://hyemin12.github.io/vanillaJS-chrome-app/)
-  [[🔧코드]](https://github.com/hyemin12/vanillaJS-chrome-app)
+- [예산 계산기 앱 (패스트캠퍼스 강의)](https://github.com/hyemin12/react-budget-calcultor)
 
-- 그림판 앱(노마드코더 클론코딩)
-  [[💻사이트]](https://hyemin12.github.io/vanillaJS-paint-app/)
-  [[🔧코드]](https://github.com/hyemin12/vanillaJS-paint-app)
+  - [배포 사이트](https://hyemin12.github.io/react-budget-calcultor/)
 
+- [clone twitter (노마드코더 강의)](https://github.com/hyemin12/react-firebase-twitterp)
 
----
+</details>
 
+<br/>
 
-### @markup
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" alt="Pink Heart" width="25" height="25" /> html + javascript
+</summary>
 
-- 스타벅스 2017 메인페이지
-  [[💻사이트]](https://starbucks-responsive-app-ee135b.netlify.app)
-  [[🔧코드]](https://github.com/hyemin12/vanilla-starbucks-app)
+- [크롬 앱(노마드코더 클론코딩)](https://github.com/hyemin12/vanillaJS-chrome-app)
 
-- 반응형 웹 - readOnly
-  [[💻사이트]](https://hyemin12.github.io/responsive-webstie-readOnly/)
-  [[🔧코드]](https://github.com/hyemin12/responsive-webstie-readOnly)
+  - [배포 사이트](https://hyemin12.github.io/vanillaJS-chrome-app/)
 
-- 반응형 웹 - massively
-  [[💻사이트]](https://hyemin12.github.io/responsive-webstie-massively/)
-  [[🔧코드]](https://github.com/hyemin12/responsive-webstie-massivelyp)
+- [그림판 앱(노마드코더 클론코딩)](https://github.com/hyemin12/vanillaJS-paint-app)
+  - [배포 사이트](https://hyemin12.github.io/vanillaJS-paint-app/)
 
-- 반응형 웹 - funny Flakes
-  [[💻사이트]](https://hyemin12.github.io/responsive-webstie-funnyFlakes/)
-  [[🔧코드]](https://github.com/hyemin12/responsive-webstie-funnyFlakes)
+</details>
 
-- 반응형 웹 - forty
-  [[💻사이트]](https://hyemin12.github.io/responsive-webstie-forty/)
-  [[🔧코드]](https://github.com/hyemin12/responsive-webstie-forty/)
+<br/>
 
-- 반응형 웹 - phantom
-  [[💻사이트]](https://hyemin12.github.io/responsive-webstie-phantom/)
-  [[🔧코드]](https://github.com/hyemin12/responsive-webstie-phantom/)
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25" /> markup
+</summary>
+
+- [스타벅스 2017 메인페이지](https://github.com/hyemin12/vanilla-starbucks-app)
+
+  - [배포 사이트](https://starbucks-responsive-app-ee135b.netlify.app)
+
+- [반응형 웹 - readOnly](https://github.com/hyemin12/responsive-webstie-readOnly)
+
+  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-readOnly/)
+
+- [반응형 웹 - massively](https://github.com/hyemin12/responsive-webstie-massivelyp)
+
+  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-massively/)
+
+- [반응형 웹 - funny Flakes](https://github.com/hyemin12/responsive-webstie-funnyFlakes)
+
+  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-funnyFlakes/)
+
+- [반응형 웹 - forty](https://github.com/hyemin12/responsive-webstie-forty/)
+
+  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-forty/)
+
+- [반응형 웹 - phantom](https://github.com/hyemin12/responsive-webstie-phantom/)
+
+  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-phantom/)
 
 - [리액트]반응형 웹 - future imperfect
-  [[💻사이트]](https://hyemin12.github.io/responsive-site-future_imperfect/)
+  [배포 사이트](https://hyemin12.github.io/responsive-site-future_imperfect/)
   [[🔧코드]](https://github.com/hyemin12/responsive-site-future_imperfect)
----
 
-### @공부
+</details>
+
+<br/>
+
+<details>
+<summary>
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> 공부
+</summary>
 
 - [💻공부 블로그](https://hyemin12.github.io)
 
 - 프리온보딩 - 로그인기능
-  [사전과제](https://github.com/hyemin12/wanted-pre-onboarding-10-FE-quest)
-  [1주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q1)
-  [2주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q2)
-  [3주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q3)
-  [4주차](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q4)
+  [[사전과제]](https://github.com/hyemin12/wanted-pre-onboarding-10-FE-quest)
+  [[1주차]](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q1)
+  [[2주차]](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q2)
+  [[3주차]](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q3)
+  [[4주차]](https://github.com/hyemin12/wanted-pre-onboarding-10-fe-q4)
 
 - 프리온보딩 - 클린코드
-  [사전과제](https://hyemin12.github.io/posts/%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C1/)
-
-- [성능 최적화를 위한 react hook](https://github.com/hyemin12/react-hook-study)
+  [[사전과제]](https://hyemin12.github.io/posts/%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C1/) [[강의 내용 정리]](https://hyemin12.github.io/categories/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C/)
 
 - [nodejs + mysql 공부 with todolist](https://github.com/hyemin12/typescript-todo-nodejs)
 
@@ -148,4 +163,14 @@
 
 - [CSS Grid](https://github.com/hyemin12/css-grid)
 
+</details>
+
 ---
+
+<div align='center'>
+
+### 🌈 Used Languages 🌈
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemin12&layout=compact)](https://github.com/hyemin12/github-readme-stats)
+
+</div>
