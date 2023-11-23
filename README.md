@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /> Tech Stack
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Light Blue Heart" width="25" height="25" /> Tech Stack
 </summary>
 
 ![html](https://img.shields.io/badge/Html5-orange?style=flat-square&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /> Being Studied
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Pink Heart" width="25" height="25" />  Being Studied
 </summary>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=black)
@@ -38,7 +38,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" /> React + typescript
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Yellow Heart" width="25" height="25" />  React + typescript
 </summary>
 
 - [포켓몬 도감 (vite)](https://github.com/hyemin12/react-pokemon-app)
@@ -66,7 +66,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> React
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />  React
 </summary>
 
 - [Dashboard & portfolio - ver2](https://github.com/hyemin12/react-dashboard)
@@ -87,7 +87,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" alt="Pink Heart" width="25" height="25" /> html + javascript
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />html + javascript
 </summary>
 
 - [크롬 앱(노마드코더 클론코딩)](https://github.com/hyemin12/vanillaJS-chrome-app)
@@ -103,7 +103,7 @@
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25" /> markup
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />  markup
 </summary>
 
 - [스타벅스 2017 메인페이지](https://github.com/hyemin12/vanilla-starbucks-app)
@@ -140,7 +140,7 @@
 
 <details>
 <summary>
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> 공부
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />  공부
 </summary>
 
 - [💻공부 블로그](https://hyemin12.github.io)
@@ -167,10 +167,10 @@
 
 ---
 
-<div align='center'>
+<!-- <div align='center'>
 
 ### 🌈 Used Languages 🌈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemin12&layout=compact)](https://github.com/hyemin12/github-readme-stats)
 
-</div>
+</div> -->
