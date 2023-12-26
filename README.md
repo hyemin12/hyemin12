@@ -41,6 +41,8 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Yellow Heart" width="25" height="25" />  React + typescript
 </summary>
 
+- [my dashboard app](https://github.com/hyemin12/react-vite-myDashboard)
+
 - [포켓몬 도감 (vite)](https://github.com/hyemin12/react-pokemon-app)
 
   - [배포 사이트](https://my-pokemon-app-d036d.firebaseapp.com/)
@@ -130,9 +132,8 @@
 
   - [배포 사이트](https://hyemin12.github.io/responsive-webstie-phantom/)
 
-- [리액트]반응형 웹 - future imperfect
-  [배포 사이트](https://hyemin12.github.io/responsive-site-future_imperfect/)
-  [[🔧코드]](https://github.com/hyemin12/responsive-site-future_imperfect)
+- [[리액트] 반응형 웹 - future imperfect](https://github.com/hyemin12/responsive-site-future_imperfect)
+  - [배포 사이트](https://hyemin12.github.io/responsive-site-future_imperfect/)
 
 </details>
 
