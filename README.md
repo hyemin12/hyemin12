@@ -1,9 +1,6 @@
 # Hyemin's github
 
-<details>
-<summary>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Light Blue Heart" width="25" height="25" /> Tech Stack
-</summary>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Light Blue Heart" width="25" height="25" /> Tech Stack
 
 ![html](https://img.shields.io/badge/Html5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
@@ -11,21 +8,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=Github&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=Github&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobe&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=Adobe&logoColor=white)
 
-</details>
-
-<br/>
-
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Pink Heart" width="25" height="25" />  Being Studied
+    Being Studied
 </summary>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=black)
@@ -36,9 +29,11 @@
 
 ---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Yellow Heart" width="25" height="25" /> My Works
+
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Yellow Heart" width="25" height="25" />  React + typescript
+   🔗 React + typescript
 </summary>
 
 - [my dashboard app](https://github.com/hyemin12/react-vite-myDashboard)
@@ -68,7 +63,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />  React
+  🔗  React
 </summary>
 
 - [Dashboard & portfolio - ver2](https://github.com/hyemin12/react-dashboard)
@@ -89,7 +84,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />html + javascript
+  🔗 html + javascript
 </summary>
 
 - [크롬 앱(노마드코더 클론코딩)](https://github.com/hyemin12/vanillaJS-chrome-app)
@@ -105,7 +100,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />  markup
+  🔗  markup
 </summary>
 
 - [스타벅스 2017 메인페이지](https://github.com/hyemin12/vanilla-starbucks-app)
@@ -141,7 +136,7 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Purple Heart" width="25" height="25" />  공부
+  📒 공부
 </summary>
 
 - [💻공부 블로그](https://hyemin12.github.io)
@@ -160,9 +155,9 @@
 
 - [nodejs + mongoDB 공부 with youtube](https://github.com/hyemin12/nodejs_mongodb)
 
-- [CSS flexbox](https://github.com/hyemin12/css-flexbox)
+- [CSS flexbox](https://hyemin12.github.io/css-flexbox/)
 
-- [CSS Grid](https://github.com/hyemin12/css-grid)
+- [CSS Grid](https://hyemin12.github.io/css-grid/)
 
 </details>
 
