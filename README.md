@@ -50,23 +50,13 @@
 
 - [반응형 웹 - readOnly](https://github.com/hyemin12/responsive-webstie-readOnly)
 
-  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-readOnly/)
-
 - [반응형 웹 - massively](https://github.com/hyemin12/responsive-webstie-massivelyp)
-
-  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-massively/)
 
 - [반응형 웹 - funny Flakes](https://github.com/hyemin12/responsive-webstie-funnyFlakes)
 
-  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-funnyFlakes/)
-
 - [반응형 웹 - forty](https://github.com/hyemin12/responsive-webstie-forty/)
 
-  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-forty/)
-
 - [반응형 웹 - phantom](https://github.com/hyemin12/responsive-webstie-phantom/)
-
-  - [배포 사이트](https://hyemin12.github.io/responsive-webstie-phantom/)
 
 </details>
 
@@ -94,8 +84,6 @@
 리액트+타입스크립트
 
 - [my dashboard app](https://github.com/hyemin12/react-vite-myDashboard)
-
-- [2022 포트폴리오](https://github.com/hyemin12/2022_portfolio)
 
 - [쇼핑몰](https://github.com/hyemin12/react-shop-practice-app/)
   - [배포 사이트](https://h-m-shop.netlify.app/)
@@ -133,10 +121,6 @@
 - [nodejs + mysql 공부 with todolist](https://github.com/hyemin12/typescript-todo-nodejs)
 
 - [nodejs + mongoDB 공부 with youtube](https://github.com/hyemin12/nodejs_mongodb)
-
-- [CSS flexbox](https://hyemin12.github.io/css-flexbox/)
-
-- [CSS Grid](https://hyemin12.github.io/css-grid/)
 
 </details>
 
