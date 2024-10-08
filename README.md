@@ -10,6 +10,6 @@
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-(https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=whit)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=whit)
 
 ---
